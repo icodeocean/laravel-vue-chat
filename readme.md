@@ -1,7 +1,5 @@
 # Realtime Chat Demo with Laravel 5.4, VueJS, and Pusher
 
-[Check out the article here](https://jplhomer.org/2017/01/building-realtime-chat-app-laravel-5-4-vuejs/).
-
 ## Development
 
 1. Clone or fork this repository
